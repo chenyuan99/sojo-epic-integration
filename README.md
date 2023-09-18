@@ -1,4 +1,4 @@
-# sojo-mychart-integration
+# sojo-epic-integration
 
 Yuan Chen
 
