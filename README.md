@@ -2,4 +2,4 @@
 
 Yuan Chen
 
-Sojo LLC All Rights Reserved
+2023 Sojo All Rights Reserved
